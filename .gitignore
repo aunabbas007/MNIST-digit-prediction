@@ -1,0 +1,13 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large files / Executables
+Antigravity.exe
+Gemini_Generated_Image_oup5pfoup5pfoup5.png
